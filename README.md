@@ -2,7 +2,7 @@
 
 iOS 17.5 users can now jailbreak their devices online ( without PC or Third-party Software ). Go through this page and download the compatible online method.
 
-Online Jailbreak Solutions
+# Online Jailbreak Solutions
 
 These are the most compatible online solutions for iOS 17.5 jailbreak. Check the below before starting the jailbreak process.
 
@@ -13,7 +13,7 @@ Deactivate VPN
 Safari Web browser
 
 
-First Online Solution - Palera1n Virtual 
+# First Online Solution - Palera1n Virtual 
 
 The Palera1n is the first recommended online jailbreak solution for iOS 17.5 and iPadOS 17.5. You can install Sileo or Zebra Package Manager from the Palera1n online tool. 
 
