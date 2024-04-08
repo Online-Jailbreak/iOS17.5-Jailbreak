@@ -28,7 +28,7 @@ The Unc0ver Black edition is an upgraded tool of the unc0ver tool. As you know U
 
 You can download the Cydia Black version from the Unc0ver black edition jailbreak tool. You can download the Unc0ver black edition jailbreak tool from the official unc0ver site or the Pangu8 jailbreak site.
 
-Install Unc0ver Black Edition 
+[Install Unc0ver Black Edition ](https://download.pangu8.com/install/pangu8App*/17-4/uncover-black/)
 
 
 # Third Online Solution - TyMax Tool
@@ -37,14 +37,14 @@ The TyMax online tool is specially designed for iOS 17.5 running iPhone 15 / iph
 
 The TyMax online solution is like other online solutions and can be installed without TrollStore  / AlTstore / Sideloadly sideload methods.
 
-Install TyMax Online Tool
+[Install TyMax Online Tool](https://silzee.com/17-jailbreak/)
 
 
 # Benefits of Online Jailbreak
 
 Online jailbreak is always very easy to install and handle. 
 
-Can install without PC ( Computer )
+Can [install without PC ](https://silzee.com/)( Computer )
 
 Not an IPA method - So no need to use the Sideload method ( Cydia Impactor / AltStore / Sidelolady / TrollStore ) 
 
