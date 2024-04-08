@@ -19,6 +19,99 @@ The Palera1n is the first recommended online jailbreak solution for iOS 17.5 and
 
 The best part is you do not need to install the Trollstore IPA sideloading tool to install the Palera1n virtual tool. Just tap the below download link directly from the Safari Web Browser. Then follow up the instructions to install.
 
-Install Plera1n Online tool
+[Install Plera1n Online tool
+]([url](https://download.pangu8.com/install/palerain-virtual/17-4/))
+
+# Second Online Solution - Unc0ver Black Edition 
+
+The Unc0ver Black edition is an upgraded tool of the unc0ver tool. As you know Unc0ver does not update after the iOS 14.8 version, the Unc0ver black team re-joined the jailbreak community and released the Unc0ver Black edition jailbreak tool.
+
+You can download the Cydia Black version from the Unc0ver black edition jailbreak tool. You can download the Unc0ver black edition jailbreak tool from the official unc0ver site or the Pangu8 jailbreak site.
+
+Install Unc0ver Black Edition 
+
+
+# Third Online Solution - TyMax Tool
+
+The TyMax online tool is specially designed for iOS 17.5 running iPhone 15 / iphone 14 and iPhone 13 Jailbreak. The TyMax has many special things. You can download package managers from the Sileo / Zebra / Cydia 2 and Cydia. 
+
+The TyMax online solution is like other online solutions and can be installed without TrollStore  / AlTstore / Sideloadly sideload methods.
+
+Install TyMax Online Tool
+
+
+# Benefits of Online Jailbreak
+
+Online jailbreak is always very easy to install and handle. 
+
+Can install without PC ( Computer )
+
+Not an IPA method - So no need to use the Sideload method ( Cydia Impactor / AltStore / Sidelolady / TrollStore ) 
+
+Install directly from the Safari
+
+Back up the device data is Optional 
+
+Can uninstall or remove very easily
+
+
+# Best Package Managers for iOS 17.5
+
+Once you have jailbroken iOS 17.5 from the following solutions, you can download the package managers for free.
+
+From these package managers, you can install jailbreak tweaks / Themes / Widgets / Online games for free.  
+
+These are the support package managers for iOS 17.5.
+
+Cydia Black 
+Sileo
+Cydia 2
+Zebra
+
+From these package managers, Cydia 2 is the best one to use because you can add repos ( Cydia sources ). But Cydia default sources do not support to Cydia 2 package.  The cydia 2 developers build separate repos and you can check the Cydia 2 support repos from below.
+
+ 
+1. Sparkle Repository
+https://sparkletheme.ela-themes.com/
+2. Dynamic Repository
+https://repo.metawu.com/
+3. TrollApps Repository
+https://repo.silzee.com/trollapp/
+4. Metawu Repository
+https://wallrepo.metawu.com/
+5. Inifty Repository
+https://iextras.org/inifty-theme/repo/
+6. OS Repository
+https://flemino.com/os/repo/
+7. iOS Launches Repository
+https://dream-themes.com/lunches/repos/
+8. Depth Repository
+https://iextras.org/depthwall/repo/
+9. Emulator Repository
+https://iextras.org/emulator/repo/
+10. Tools Repository
+https://iextras.org/tools/repo/
+11. Apple Hub Repository
+https://iextras.org/Apple-hub/repo/
+12. KFD Repository
+https://silzee.com/kfd/repo/
+13. Third-Party Apps Repository
+https://iextras.org/thirdparty/repo/
+14. Online Games Repository
+https://iextras.org/onlinegame/repo/
+15. Zebra Repository
+https://iextras.org/zebra/repo/
+16. Ela Theme Repository
+https://getrepo.ela-themes.com/
+17. Sileo Repository
+https://silzee.com/getsileo.app/repo/
+18. Show Live Repository
+https://repo-showlivethemes.ela-themes.com/
+19. Misaka Repository
+https://repo.silzee.com/misaka/
+20. Altlist Repository
+https://repo.silzee.com/altlist/
+
+
 
 
