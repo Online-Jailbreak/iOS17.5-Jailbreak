@@ -72,7 +72,7 @@ From these package managers, Cydia 2 is the best one to use because you can add 
 
  
 1. Sparkle Repository
-[https://sparkletheme.ela-themes.com/]()
+sparkletheme.ela-themes.com
 2. Dynamic Repository
 https://repo.metawu.com/
 3. TrollApps Repository
