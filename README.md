@@ -72,45 +72,45 @@ From these package managers, Cydia 2 is the best one to use because you can add 
 
  
 1. Sparkle Repository
-sparkletheme.ela-themes.com
+- sparkletheme.ela-themes.com
 2. Dynamic Repository
-repo.metawu.com
+- repo.metawu.com
 3. TrollApps Repository
-repo.silzee.com/trollapp
+- repo.silzee.com/trollapp
 4. Metawu Repository
-wallrepo.metawu.com
+- wallrepo.metawu.com
 5. Inifty Repository
-iextras.org/inifty-theme/repo
+- iextras.org/inifty-theme/repo
 6. OS Repository
-flemino.com/os/repo
+- flemino.com/os/repo
 7. iOS Launches Repository
-dream-themes.com/lunches/repos
+- dream-themes.com/lunches/repos
 8. Depth Repository
-iextras.org/depthwall/repo
+- iextras.org/depthwall/repo
 9. Emulator Repository
-iextras.org/emulator/repo
+- iextras.org/emulator/repo
 10. Tools Repository
-iextras.org/tools/repo
+- iextras.org/tools/repo
 11. Apple Hub Repository
-iextras.org/Apple-hub/repo
+- iextras.org/Apple-hub/repo
 12. KFD Repository
-silzee.com/kfd/repo
+- silzee.com/kfd/repo
 13. Third-Party Apps Repository
-iextras.org/thirdparty/repo
+- iextras.org/thirdparty/repo
 14. Online Games Repository
-iextras.org/onlinegame/repo
+- iextras.org/onlinegame/repo
 15. Zebra Repository
-iextras.org/zebra/repo
+- iextras.org/zebra/repo
 16. Ela Theme Repository
-getrepo.ela-themes.com
+- getrepo.ela-themes.com
 17. Sileo Repository
-silzee.com/getsileo.app/repo
+- silzee.com/getsileo.app/repo
 18. Show Live Repository
-repo-showlivethemes.ela-themes.com
+- repo-showlivethemes.ela-themes.com
 19. Misaka Repository
-repo.silzee.com/misaka
+- repo.silzee.com/misaka
 20. Altlist Repository
-repo.silzee.com/altlist
+- repo.silzee.com/altlist
 
 
 
