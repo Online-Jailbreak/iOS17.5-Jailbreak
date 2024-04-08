@@ -63,10 +63,10 @@ From these package managers, you can install jailbreak tweaks / Themes / Widgets
 
 These are the support package managers for iOS 17.5.
 
-Cydia Black 
-Sileo
-Cydia 2
-Zebra
+* Cydia Black 
+* Sileo
+* Cydia 2
+* Zebra
 
 From these package managers, Cydia 2 is the best one to use because you can add repos ( Cydia sources ). But Cydia default sources do not support to Cydia 2 package.  The cydia 2 developers build separate repos and you can check the Cydia 2 support repos from below.
 
