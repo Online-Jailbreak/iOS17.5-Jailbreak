@@ -4,7 +4,7 @@ iOS 17.5 users can now jailbreak their devices online ( without PC or Third-part
 
 # Online Jailbreak Solutions
 
-These are the most compatible online solutions for iOS 17.5 jailbreak. Check the below before starting the jailbreak process.
+These are the most compatible online solutions for [iOS 17.5 jailbreak](https://silzee.com/17-jailbreak/). Check the below before starting the jailbreak process.
 
 Devices should run iOS 17.5 or iPadOS 17.5
 Well-established internet connection
