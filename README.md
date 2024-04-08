@@ -19,7 +19,7 @@ The Palera1n is the first recommended online jailbreak solution for iOS 17.5 and
 
 The best part is you do not need to install the Trollstore IPA sideloading tool to install the Palera1n virtual tool. Just tap the below download link directly from the Safari Web Browser. Then follow up the instructions to install.
 
-[Install Plera1n Online tool]([url](https://download.pangu8.com/install/palerain-virtual/17-4/))
+Install Plera1n Online tool([url](https://download.pangu8.com/install/palerain-virtual/17-4/)
 
 
 # Second Online Solution - Unc0ver Black Edition 
